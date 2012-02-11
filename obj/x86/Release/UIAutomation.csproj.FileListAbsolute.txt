@@ -1,0 +1,11 @@
+E:\G\Projects\PS\UIAutomation\UIAutomation\bin\Release\UIAutomation.dll
+E:\G\Projects\PS\UIAutomation\UIAutomation\obj\x86\Release\ResolveAssemblyReference.cache
+E:\G\Projects\PS\UIAutomation\UIAutomation\obj\x86\Release\UIAutomation.dll
+C:\distrib\UIAutomation\UIAutomation\bin\Release\UIAutomation.dll
+C:\distrib\UIAutomation\UIAutomation\obj\x86\Release\ResolveAssemblyReference.cache
+C:\distrib\UIAutomation\UIAutomation\obj\x86\Release\UIAutomation.dll
+\\stora\FamilyLibrary\Projects\PS\UIAutomation\UIAutomation\bin\Release\UIAutomation.dll
+\\stora\FamilyLibrary\Projects\PS\UIAutomation\UIAutomation\obj\x86\Release\ResolveAssemblyReference.cache
+\\stora\FamilyLibrary\Projects\PS\UIAutomation\UIAutomation\obj\x86\Release\UIAutomation.dll
+E:\G\Projects\PS\UIAutomation\UIAutomation\obj\x86\Release\UIAutomation.csproj.GenerateResource.Cache
+E:\G\Projects\PS\UIAutomation\UIAutomation\obj\x86\Release\UIAutomation.Commands.RecorderForm.resources
